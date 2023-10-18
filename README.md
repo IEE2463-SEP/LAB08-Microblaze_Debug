@@ -5,8 +5,8 @@ En este laboratorio aprenderemos a depurar (debug) un código programado en un p
 
 2. Los documentos asociados a la ejecución de este laboratorio son:
 
-* [LAB07_Interrupt_Controller.pdf](https://github.com/IEE2463-SEP/LAB08-Microblaze_Debug/blob/main/LAB08_Microblaze_Debug.pdf): Contine la guía de desarrollo asociada a este laboratorio.
-* [LAB07_Microblaze_INTC_IPCORE.rar](https://github.com/IEE2463-SEP/LAB08-Microblaze_Debug/blob/main/LAB08_MB_DBug.rar): Contine el projecto en vivado desarrollado en el laboratorio
+* [LAB08_Microblaze_Debug.pdf](https://github.com/IEE2463-SEP/LAB08-Microblaze_Debug/blob/main/LAB08_Microblaze_Debug.pdf): Contine la guía de desarrollo asociada a este laboratorio.
+* [LAB08_MB_DBug.rar](https://github.com/IEE2463-SEP/LAB08-Microblaze_Debug/blob/main/LAB08_MB_DBug.rar): Contine el projecto en vivado desarrollado en el laboratorio
 
  
 3. Previo al Quiz07, realizado en los primeros 10-15min de cada laboratorio, debes estudiar personalizadamente:
