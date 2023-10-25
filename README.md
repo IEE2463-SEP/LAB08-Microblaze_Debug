@@ -15,7 +15,7 @@ En este laboratorio aprenderemos a depurar (debug) un código programado en un p
 * Contenidos de la [Ayudantia 07]()
 * [Lectura08](https://github.com/IEE2463-SEP/Lecturas) IEE2463.
   
-4.- [Actividad Práctica]() desarrollada en el del Laboratorio 
+4.- [Actividad Práctica](https://github.com/IEE2463-SEP/LAB08-Microblaze_Debug/blob/main/LAB08_Debug.pptx) desarrollada en el del Laboratorio 
 
 
 5.- Revisar este [video](https://www.youtube.com/watch?v=TlWlLeC5BUs&t=121s) que nos mustra en detalle como opera un JTAG.
